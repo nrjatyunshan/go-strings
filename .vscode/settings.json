@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"gelf.h": "c",
+		"libelf.h": "c",
+		"cstring": "c"
+	}
+}
